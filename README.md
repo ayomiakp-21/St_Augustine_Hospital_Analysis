@@ -75,6 +75,52 @@
 - Average visit duration ranges 32–42 minutes, indicating moderate consultation complexity
 - Chronic illness management programs and longer consultations align with patient needs but these require efficient doctor scheduling and support systems
 
+## Doctors Performance
+
+- The hospital operates with a total of 10 doctors, each managing an average of 50 patient visits, indicating a moderate and balanced patient workload. Despite this manageable volume, the overall patient recovery rate stands at 22.4%, which is low for a healthcare setting
+- This disparity between workload and outcomes suggests underlying inefficiencies in clinical processes, including treatment protocols, patient-to-doctor allocation or post-treatment follow-up practices
+
+### Doctor-Level Performance Variance
+
+- Top Performer: Samantha Singleton (highest recovery %)
+- High Visit Load: Kimberly Lin (64 visits), Gregory Chen and Kelly Green (55 visits each)
+- Recovery % Spread: Ranges roughly from 15% to 30%
+- There is significant inconsistency in doctor outcomes. Some doctors are handling more patients without proportionally better recovery rates, which can hurt both patient outcomes and staff morale
+
+### Deceased % by Doctors
+
+- Doctors like Jamie Smith and Kelly Green show higher deceased percentages
+- Doctors with moderate workloads sometimes outperform those with heavier caseloads
+- Patient outcomes may be negatively impacted by workload pressure, specialization mismatch or delayed interventions
+
+### Gender Distribution
+
+- Male: 50% , Female: 50%
+- Good gender balance. Performance gaps are not gender-driven, which is useful for fair policy design
+
+## Treatment Analysis
+
+### Overall Treatment Performance
+
+- Treatments Covered: 6
+- Overall Treatment Success Rate: 77.4%
+- Average Treatment Duration: 48m.33s 
+- Average Treatment Cost: $683.33
+- Readmission Rate: 34.6%
+- Success rate looks decent on paper but the high readmission rate is a red flag. That can translate to treatments working initially but patients are coming back due to complications, incomplete recovery or poor follow-up care
+
+### Treatment Success by Department
+
+- Top Performers are Pediatrics (90%) and Cardiology (88%) while Underperformers are Oncology (72%) and Emergency (65%)
+- Emergency and Oncology treatments are less predictable and higher risk, but the gap is still too wide. This points to inconsistent protocols, resource strain or possibility of rushed treatment decisions
+
+### Treatment-Level Effectiveness
+
+-The treatment portfolio includes 6 treatment types, with an overall treatment success rate of 77.4%. While this indicates moderate effectiveness, it is offset by a high readmission rate of 34.6%, signaling gaps in post-treatment care, follow-up protocols or treatment suitability
+- Diagnostic treatments such as X-Ray, ECG and MRI scans demonstrate consistently high success rates (above 90%), indicating strong reliability and low risk. In contrast, complex and invasive treatments such as Chemotherapy (72%) and Heart Surgery (75%) show lower success rates and contribute disproportionately to readmissions and costs
+- Department-level analysis shows higher success rates in Pediatrics and Cardiology, while Emergency and Oncology departments underperform. This pattern reflects the operational challenges of time-sensitive and high-severity cases, as well as potential inconsistencies in emergency treatment workflows
+- Chronic illness trends reveal a mid-year increase in cases, suggesting predictable seasonal demand that is not currently being addressed through proactive care planning
+
 # Strategic Recommendations
 
 ## Operational Efficiency
@@ -95,18 +141,23 @@
 3. Address Readmission Rate (34.6%)
 
 - Conduct root cause analysis on common readmission cases (e.g., follow-up compliance, chronic disease relapse)
-- Introduce post-discharge follow-up programs and teleconsultations for high-risk patients
+- Introduce a 42-72 hour post-discharge follow-up programs and teleconsultations for high-risk patients
 - Strengthen patient education on medication adherence and home care
 
 4. Enhance Preventive Care for Key Age Groups
 
 - Develop wellness and screening packages targeting: Young adults (fitness, mental health) and Seniors (chronic illness monitoring, rehabilitation)
+- Launch chronic illness management plans before mid-year spike
+- Assign care coordinators to high-risk patients
 - Partner with local employers for corporate wellness programs
 
 ## Resource & Staff Management
 
-5. Optimize Staffing Patterns
+5. Optimize Staffing Patterns/ Standardize best Practices from Top Performers
 
+- Audit treatment workflows of Samantha Singleton and Laurie York and convert them into hospital-wide treatment SOPs
+- Provide clinical reviews and mentorship for doctors with high deceased % and Low recovery %
+- Redistribute cases based on doctor recovery performance, not availability alone
 - Align shift schedules with visit peaks (midday and weekdays)
 - Offer flexible shifts to handle morning rush hours effectively
 - Ensure pediatric and cardiology units have adequate nursing and diagnostic support
